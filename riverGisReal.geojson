@@ -1,15 +1,18 @@
 {
   "type": "FeatureCollection",
   "features": [
+
     {
       "type": "Feature",
       "properties": {
-        "VIDEOURL": "https://embed.windy.com/config/webcam/1700486871"
+        "ONLINE": "ONLINE",
+        "IMAGEURL": "https://images-webcams.windy.com/87/1700486871/current/full/1700486871.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [100.542,6.824]
       }
     }
+
   ]
 }
