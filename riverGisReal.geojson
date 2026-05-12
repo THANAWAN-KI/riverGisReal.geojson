@@ -6,23 +6,11 @@
       "type": "Feature",
       "properties": {
         "ONLINE": "ONLINE",
-        "URL": "https://webcams.windy.com/webcams/public/player/1700486871/day"
+        "IMAGEURL": "https://images-webcams.windy.com/87/1700486871/current/full/1700486871.jpg"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [100.4245,6.5571]
-      }
-    },
-
-    {
-      "type": "Feature",
-      "properties": {
-        "ONLINE": "ONLINE",
-        "URL": "https://webcams.windy.com/webcams/public/player/1732812620/day"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [101.624,14.647]
+        "coordinates": [100.542,6.824]
       }
     }
 
