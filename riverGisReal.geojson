@@ -1,18 +1,15 @@
 {
   "type": "FeatureCollection",
   "features": [
-
     {
       "type": "Feature",
       "properties": {
-        "ONLINE": "ONLINE",
-        "TIMELAPSE": "https://windy.com/webcams/1700486871"
+        "VIDEOURL": "https://webcams.windy.com/webcams/public/player/1700486871/day"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [100.542,6.824]
       }
     }
-
   ]
 }
