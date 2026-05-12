@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "station_name": "Bang Pakong River",
+        "flow_m3s": 125.4,
+        "status": "NORMAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.067, 13.690]
+      }
+    }
+  ]
+}
