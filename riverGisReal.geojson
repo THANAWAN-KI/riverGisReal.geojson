@@ -1,7 +1,6 @@
 {
   "type": "FeatureCollection",
   "features": [
-
     {
       "type": "Feature",
       "properties": {
@@ -13,9 +12,11 @@
         "IMAGEURL": "https://images-webcams.windy.com/01/1700000001/current/full/1700000001.jpg",
         "WEBURL": "https://www.windy.com/webcams/1700000001"
       },
-      "geometry": { "type": "Point", "coordinates": [100.5018, 13.7563] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.5018, 13.7563]
+      }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -27,9 +28,11 @@
         "IMAGEURL": "https://images-webcams.windy.com/02/1700000002/current/full/1700000002.jpg",
         "WEBURL": "https://www.windy.com/webcams/1700000002"
       },
-      "geometry": { "type": "Point", "coordinates": [100.5144, 13.8591] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.5144, 13.8591]
+      }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -41,13 +44,15 @@
         "IMAGEURL": "https://images-webcams.windy.com/03/1700000003/current/full/1700000003.jpg",
         "WEBURL": "https://www.windy.com/webcams/1700000003"
       },
-      "geometry": { "type": "Point", "coordinates": [100.5689, 14.3532] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.5689, 14.3532]
+      }
     },
-
     {
       "type": "Feature",
       "properties": {
-        "CAMERA": "Chonburi Industrial Estate",
+        "CAMERA": "Chonburi Industrial",
         "STATUS": "ONLINE",
         "TYPE": "Industrial CCTV",
         "PROVINCE": "Chonburi",
@@ -55,9 +60,11 @@
         "IMAGEURL": "https://images-webcams.windy.com/04/1700000004/current/full/1700000004.jpg",
         "WEBURL": "https://www.windy.com/webcams/1700000004"
       },
-      "geometry": { "type": "Point", "coordinates": [100.9847, 13.3611] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.9847, 13.3611]
+      }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -69,10 +76,10 @@
         "IMAGEURL": "https://images-webcams.windy.com/05/1700000005/current/full/1700000005.jpg",
         "WEBURL": "https://www.windy.com/webcams/1700000005"
       },
-      "geometry": { "type": "Point", "coordinates": [101.2804, 12.6800] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.2804, 12.6800]
+      }
     }
-
-    /* ... (ต่ออีก 95 จุดใน pattern เดียวกัน) ... */
-
   ]
 }
