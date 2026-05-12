@@ -6,7 +6,7 @@
       "type": "Feature",
       "properties": {
         "ONLINE": "ONLINE",
-        "IMAGEURL": "https://images-webcams.windy.com/87/1700486871/current/full/1700486871.jpg"
+        "VIDEOURL": "https://webcams.windy.com/webcams/public/player/1700486871/day"
       },
       "geometry": {
         "type": "Point",
