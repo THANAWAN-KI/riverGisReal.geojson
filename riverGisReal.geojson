@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "VIDEOURL": "https://webcams.windy.com/webcams/public/player/1700486871/day"
+        "VIDEOURL": "https://embed.windy.com/config/webcam/1700486871"
       },
       "geometry": {
         "type": "Point",
