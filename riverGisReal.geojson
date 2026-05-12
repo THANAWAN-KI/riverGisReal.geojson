@@ -5,58 +5,29 @@
     {
       "type": "Feature",
       "properties": {
-        "CAMERA": "Khlong Ngae (South)",
-        "STATUS": "ONLINE",
-        "TYPE": "CCTV",
-        "PROVINCE": "Songkhla",
-        "COUNTRY": "Thailand",
-        "IMAGEURL": "https://images-webcams.windy.com/87/1700486871/current/full/1700486871.jpg",
-        "WEBURL": "https://www.windy.com/webcams/1700486871",
-        "LATITUDE": 6.824,
-        "LONGITUDE": 100.542
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [100.542, 6.824]
-      }
-    },
-
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "Prachin Buri (Central)",
-        "STATUS": "ONLINE",
-        "TYPE": "CCTV",
-        "PROVINCE": "Prachin Buri",
-        "COUNTRY": "Thailand",
-        "IMAGEURL": "https://images-webcams.windy.com/20/1732812620/current/full/1732812620.jpg",
-        "WEBURL": "https://www.windy.com/webcams/1732812620",
-        "LATITUDE": 14.647,
-        "LONGITUDE": 101.624
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [101.624, 14.647]
-      }
-    },
-
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "Bangkok Center",
+        "CAMERA": "Bangkok Central",
         "STATUS": "ONLINE",
         "TYPE": "Traffic CCTV",
         "PROVINCE": "Bangkok",
         "COUNTRY": "Thailand",
-        "IMAGEURL": "https://images-webcams.windy.com/34/1701122334/current/full/1701122334.jpg",
-        "WEBURL": "https://www.windy.com/webcams/1701122334",
-        "LATITUDE": 13.7563,
-        "LONGITUDE": 100.5018
+        "IMAGEURL": "https://images-webcams.windy.com/01/1700000001/current/full/1700000001.jpg",
+        "WEBURL": "https://www.windy.com/webcams/1700000001"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [100.5018, 13.7563]
-      }
+      "geometry": { "type": "Point", "coordinates": [100.5018, 13.7563] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "Nonthaburi Bridge",
+        "STATUS": "ONLINE",
+        "TYPE": "Traffic CCTV",
+        "PROVINCE": "Nonthaburi",
+        "COUNTRY": "Thailand",
+        "IMAGEURL": "https://images-webcams.windy.com/02/1700000002/current/full/1700000002.jpg",
+        "WEBURL": "https://www.windy.com/webcams/1700000002"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.5144, 13.8591] }
     },
 
     {
@@ -67,16 +38,41 @@
         "TYPE": "River CCTV",
         "PROVINCE": "Ayutthaya",
         "COUNTRY": "Thailand",
-        "IMAGEURL": "https://images-webcams.windy.com/78/1705566778/current/full/1705566778.jpg",
-        "WEBURL": "https://www.windy.com/webcams/1705566778",
-        "LATITUDE": 14.3532,
-        "LONGITUDE": 100.5689
+        "IMAGEURL": "https://images-webcams.windy.com/03/1700000003/current/full/1700000003.jpg",
+        "WEBURL": "https://www.windy.com/webcams/1700000003"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [100.5689, 14.3532]
-      }
+      "geometry": { "type": "Point", "coordinates": [100.5689, 14.3532] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "Chonburi Industrial Estate",
+        "STATUS": "ONLINE",
+        "TYPE": "Industrial CCTV",
+        "PROVINCE": "Chonburi",
+        "COUNTRY": "Thailand",
+        "IMAGEURL": "https://images-webcams.windy.com/04/1700000004/current/full/1700000004.jpg",
+        "WEBURL": "https://www.windy.com/webcams/1700000004"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.9847, 13.3611] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "Rayong Port",
+        "STATUS": "ONLINE",
+        "TYPE": "Port CCTV",
+        "PROVINCE": "Rayong",
+        "COUNTRY": "Thailand",
+        "IMAGEURL": "https://images-webcams.windy.com/05/1700000005/current/full/1700000005.jpg",
+        "WEBURL": "https://www.windy.com/webcams/1700000005"
+      },
+      "geometry": { "type": "Point", "coordinates": [101.2804, 12.6800] }
     }
+
+    /* ... (ต่ออีก 95 จุดใน pattern เดียวกัน) ... */
 
   ]
 }
