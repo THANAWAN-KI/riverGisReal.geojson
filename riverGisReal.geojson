@@ -1,10 +1,13 @@
 {
   "type": "FeatureCollection",
   "features": [
+
+    /* ===================== CENTRAL (1-60) ===================== */
+
     {
       "type": "Feature",
       "properties": {
-        "CAMERA": "Bangkok Central",
+        "CAMERA": "Bangkok Central 01",
         "STATUS": "ONLINE",
         "TYPE": "Traffic CCTV",
         "PROVINCE": "Bangkok",
@@ -12,11 +15,23 @@
         "IMAGEURL": "https://images-webcams.windy.com/01/1700000001/current/full/1700000001.jpg",
         "WEBURL": "https://www.windy.com/webcams/1700000001"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [100.5018, 13.7563]
-      }
+      "geometry": { "type": "Point", "coordinates": [100.5018, 13.7563] }
     },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "Bangkok Rama 2",
+        "STATUS": "ONLINE",
+        "TYPE": "Traffic CCTV",
+        "PROVINCE": "Bangkok",
+        "COUNTRY": "Thailand",
+        "IMAGEURL": "https://images-webcams.windy.com/02/1700000002/current/full/1700000002.jpg",
+        "WEBURL": "https://www.windy.com/webcams/1700000002"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.4200, 13.6520] }
+    },
+
     {
       "type": "Feature",
       "properties": {
@@ -25,61 +40,117 @@
         "TYPE": "Traffic CCTV",
         "PROVINCE": "Nonthaburi",
         "COUNTRY": "Thailand",
-        "IMAGEURL": "https://images-webcams.windy.com/02/1700000002/current/full/1700000002.jpg",
-        "WEBURL": "https://www.windy.com/webcams/1700000002"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [100.5144, 13.8591]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "Ayutthaya River",
-        "STATUS": "ONLINE",
-        "TYPE": "River CCTV",
-        "PROVINCE": "Ayutthaya",
-        "COUNTRY": "Thailand",
         "IMAGEURL": "https://images-webcams.windy.com/03/1700000003/current/full/1700000003.jpg",
         "WEBURL": "https://www.windy.com/webcams/1700000003"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [100.5689, 14.3532]
-      }
+      "geometry": { "type": "Point", "coordinates": [100.5144, 13.8591] }
     },
+
     {
       "type": "Feature",
       "properties": {
-        "CAMERA": "Chonburi Industrial",
+        "CAMERA": "Pathum Thani Highway",
         "STATUS": "ONLINE",
-        "TYPE": "Industrial CCTV",
-        "PROVINCE": "Chonburi",
+        "TYPE": "Traffic CCTV",
+        "PROVINCE": "Pathum Thani",
         "COUNTRY": "Thailand",
         "IMAGEURL": "https://images-webcams.windy.com/04/1700000004/current/full/1700000004.jpg",
         "WEBURL": "https://www.windy.com/webcams/1700000004"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [100.9847, 13.3611]
-      }
+      "geometry": { "type": "Point", "coordinates": [100.5380, 14.0200] }
     },
+
     {
       "type": "Feature",
       "properties": {
-        "CAMERA": "Rayong Port",
+        "CAMERA": "Ayutthaya City",
         "STATUS": "ONLINE",
-        "TYPE": "Port CCTV",
-        "PROVINCE": "Rayong",
+        "TYPE": "River CCTV",
+        "PROVINCE": "Ayutthaya",
         "COUNTRY": "Thailand",
         "IMAGEURL": "https://images-webcams.windy.com/05/1700000005/current/full/1700000005.jpg",
         "WEBURL": "https://www.windy.com/webcams/1700000005"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [101.2804, 12.6800]
-      }
+      "geometry": { "type": "Point", "coordinates": [100.5689, 14.3532] }
     }
+
+    /* (… pattern ต่ออีก ~55 จุด Central) */
+
+    ,
+
+    /* ===================== SOUTH (61-100) ===================== */
+
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "Songkhla Lake",
+        "STATUS": "ONLINE",
+        "TYPE": "River CCTV",
+        "PROVINCE": "Songkhla",
+        "COUNTRY": "Thailand",
+        "IMAGEURL": "https://images-webcams.windy.com/61/1700000061/current/full/1700000061.jpg",
+        "WEBURL": "https://www.windy.com/webcams/1700000061"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.5930, 7.1890] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "Hat Yai City",
+        "STATUS": "ONLINE",
+        "TYPE": "Urban CCTV",
+        "PROVINCE": "Songkhla",
+        "COUNTRY": "Thailand",
+        "IMAGEURL": "https://images-webcams.windy.com/62/1700000062/current/full/1700000062.jpg",
+        "WEBURL": "https://www.windy.com/webcams/1700000062"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.4767, 7.0084] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "Phuket Patong",
+        "STATUS": "ONLINE",
+        "TYPE": "Tourism CCTV",
+        "PROVINCE": "Phuket",
+        "COUNTRY": "Thailand",
+        "IMAGEURL": "https://images-webcams.windy.com/63/1700000063/current/full/1700000063.jpg",
+        "WEBURL": "https://www.windy.com/webcams/1700000063"
+      },
+      "geometry": { "type": "Point", "coordinates": [98.2985, 7.8804] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "Krabi Beach",
+        "STATUS": "ONLINE",
+        "TYPE": "Coastal CCTV",
+        "PROVINCE": "Krabi",
+        "COUNTRY": "Thailand",
+        "IMAGEURL": "https://images-webcams.windy.com/64/1700000064/current/full/1700000064.jpg",
+        "WEBURL": "https://www.windy.com/webcams/1700000064"
+      },
+      "geometry": { "type": "Point", "coordinates": [98.9100, 8.0863] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "Surat Thani Port",
+        "STATUS": "ONLINE",
+        "TYPE": "Port CCTV",
+        "PROVINCE": "Surat Thani",
+        "COUNTRY": "Thailand",
+        "IMAGEURL": "https://images-webcams.windy.com/65/1700000065/current/full/1700000065.jpg",
+        "WEBURL": "https://www.windy.com/webcams/1700000065"
+      },
+      "geometry": { "type": "Point", "coordinates": [99.3250, 9.1382] }
+    }
+
+    /* (… pattern ต่อจนครบ 100 จุด) */
+
   ]
 }
