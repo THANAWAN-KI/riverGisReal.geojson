@@ -5,12 +5,76 @@
     {
       "type": "Feature",
       "properties": {
-        "ONLINE": "ONLINE",
-        "IMAGEURL": "https://images-webcams.windy.com/87/1700486871/current/full/1700486871.jpg"
+        "CAMERA": "Khlong Ngae (South)",
+        "STATUS": "ONLINE",
+        "TYPE": "CCTV",
+        "PROVINCE": "Songkhla",
+        "COUNTRY": "Thailand",
+        "IMAGEURL": "https://images-webcams.windy.com/87/1700486871/current/full/1700486871.jpg",
+        "WEBURL": "https://www.windy.com/webcams/1700486871",
+        "LATITUDE": 6.824,
+        "LONGITUDE": 100.542
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [100.542,6.824]
+        "coordinates": [100.542, 6.824]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "Prachin Buri (Central)",
+        "STATUS": "ONLINE",
+        "TYPE": "CCTV",
+        "PROVINCE": "Prachin Buri",
+        "COUNTRY": "Thailand",
+        "IMAGEURL": "https://images-webcams.windy.com/20/1732812620/current/full/1732812620.jpg",
+        "WEBURL": "https://www.windy.com/webcams/1732812620",
+        "LATITUDE": 14.647,
+        "LONGITUDE": 101.624
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.624, 14.647]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "Bangkok Center",
+        "STATUS": "ONLINE",
+        "TYPE": "Traffic CCTV",
+        "PROVINCE": "Bangkok",
+        "COUNTRY": "Thailand",
+        "IMAGEURL": "https://images-webcams.windy.com/34/1701122334/current/full/1701122334.jpg",
+        "WEBURL": "https://www.windy.com/webcams/1701122334",
+        "LATITUDE": 13.7563,
+        "LONGITUDE": 100.5018
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.5018, 13.7563]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "Ayutthaya River",
+        "STATUS": "ONLINE",
+        "TYPE": "River CCTV",
+        "PROVINCE": "Ayutthaya",
+        "COUNTRY": "Thailand",
+        "IMAGEURL": "https://images-webcams.windy.com/78/1705566778/current/full/1705566778.jpg",
+        "WEBURL": "https://www.windy.com/webcams/1705566778",
+        "LATITUDE": 14.3532,
+        "LONGITUDE": 100.5689
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.5689, 14.3532]
       }
     }
 
